@@ -1,0 +1,3 @@
+﻿User-agent: *
+Disallow: /
+# AI/TDM opt-out — © Z. Amrani 2025
